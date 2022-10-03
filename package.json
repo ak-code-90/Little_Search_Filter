@@ -1,7 +1,7 @@
 {
-  "homepage" : "https://github.com/ak-code-90/Little_Search_Filter",
+  "homepage" : "https://github.com/ak-code-90/Little_Search_Filter/",
   "name": "little-search-filter",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
