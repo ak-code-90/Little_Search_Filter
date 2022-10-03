@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="searchWrapper">
-        <h1>Entrez les premières lettres d'un prénom</h1>
+        <h1>Recherchez un prénom</h1>
         <input
           onChange={(event) => setSearchTerm(event.target.value)}
           className="input"
